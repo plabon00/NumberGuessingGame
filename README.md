@@ -48,4 +48,4 @@ Supports Java 8 and above.
 Feel free to open issues or contribute if you'd like to improve the game!
 Happy guessing! 🎉
 
-https://github.com/plabon00/NumberGuessingGame.git
+I got this Amazing Project Idea form : https://roadmap.sh/projects/number-guessing-game
